@@ -50,7 +50,7 @@ radio.onReceivedNumber(function (receivedNumber) {
     }
     basic.clearScreen()
 })
-radio.setGroup(2)
+radio.setGroup(53)
 basic.forever(function () {
 	
 })
